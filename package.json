@@ -1,0 +1,24 @@
+{
+  "name": "aula-0208-GitHub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaisminas/aula_0802_cesar_school.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaisminas/aula_0802_cesar_school/issues"
+  },
+  "homepage": "https://github.com/thaisminas/aula_0802_cesar_school#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-routes": "^1.0.1"
+  }
+}
